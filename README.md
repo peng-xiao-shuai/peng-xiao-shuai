@@ -13,10 +13,9 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to send me an email if you need anything**pxs1612565136@gmail.com**
 - 🚴 &nbsp; When I have free time, I will go cycling and exercise
-  <br>
+<br>
 
 ### 🔨 Languages and Tools:
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></a>
@@ -25,13 +24,14 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
 <a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/> </a>
 <a href="https://threejs.org/" target="_blank"><img align="left" alt="Three.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"></a>
-<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwindcss" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> </a>
-<a href="https://uniapp.dcloud.net.cn/" target="_blank"> <img align="left" alt="UniApp" height='42px' src="./public/uni-app.svg"/> </a>
-<a href="https://developers.weixin.qq.com/miniprogram/dev/framework/" target="_blank"> <img align="left" alt="WeChatMiniApps" height='42px' src="./public/wechat-mini-apps.svg" /> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img align="left"  alt="Photoshop" height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwindcss" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></a>
+<a href="https://uniapp.dcloud.net.cn/" target="_blank"><img align="left" alt="UniApp" height='42px' src="./public/uni-app.svg"/></a>
+<a href="https://developers.weixin.qq.com/miniprogram/dev/framework/" target="_blank"><img align="left" alt="WeChatMiniApps" height='42px' src="./public/wechat-mini-apps.svg" /></a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img alt="Photoshop" height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/></a>
 
 <br>
+
 
 ### 📊 Github Stats
 
@@ -48,7 +48,7 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 
 <table>
 	<tr>
-		<td align="center" width='120'>
+		<td align="center" width='160'>
 			<a
 				href="https://github.com/peng-xiao-shuai/next-argots"
 				target="_blank"
@@ -56,7 +56,7 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 				<img
 					alt="Argots"
 					src="https://argots.cn/logo.svg"
-					height="68"
+					height="48"
 				/>
 			</a>
 			<br>
