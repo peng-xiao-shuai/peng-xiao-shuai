@@ -57,8 +57,9 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 					height="68"
 					align="left"
 				/>
-				<h3>Argots</h3>
 			</a>
+			<br/>
+			<b>Argots</b>
 		</td>
 		<td align="center" width='200'>
 			<a
@@ -71,8 +72,9 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 					height="48"
 					align="left"
 				/>
-				<h3>Vite Vue Admin</h3>
 			</a>
+			<br/>
+			<b>Vite Vue Admin</b>
 		</td>
 	</tr>
 </table>
