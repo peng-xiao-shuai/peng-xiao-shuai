@@ -3,8 +3,6 @@
 I am a versatilist and easily adapt to different roles (Full Stack Web Developer 🌐, Mini Apps Developer 📱, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
@@ -13,7 +11,7 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 - 🌱 &nbsp; I’m currently learning Next; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/peng-xiao-shuai?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to send me an email if you need anything **pxs1612565136@gmail.com**
+- 📫 &nbsp; Feel free to send me an email if you need anything**pxs1612565136@gmail.com**
 - 🚴 &nbsp; When I have free time, I will go cycling and exercise
 <br>
 
@@ -26,9 +24,9 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height='42px'/> </a>
 <a href="https://threejs.org/" target="_blank"><img align="left" alt="Three.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"></a>
-<a href="https://tailwindcss.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height ="42px"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" align="left" alt="photoshop" height='42px'/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" height ="42px"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align="left" alt="Git" height='42px'/> </a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" align="left" alt="Photoshop" height='42px'/> </a>
 
 <br>
 
@@ -45,4 +43,4 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 
 ### 🛠️ My Projects
 <a href="https://github.com/peng-xiao-shuai/next-argots" target="_blank"> <img alt="Argots" src="https://argots.cn/logo.svg" height="68" align="left"> </a>
-<a href="https://github.com/peng-xiao-shuai/vite-vue-admin" target="_blank"> <img alt="vite-vue-admin" src="https://github.com/peng-xiao-shuai/vite-vue-admin/raw/master/src/assets/logo.svg"  height="68" align="left"> </a>
+<a href="https://github.com/peng-xiao-shuai/vite-vue-admin" target="_blank"> <img alt="vite-vue-admin" src="https://github.com/peng-xiao-shuai/vite-vue-admin/raw/master/src/assets/logo.svg"  height="58" align="left"> </a>
