@@ -57,7 +57,6 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 					alt="Argots"
 					src="https://argots.cn/logo.svg"
 					height="68"
-					align="left"
 				/>
 			</a>
 			<br>
@@ -72,7 +71,6 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 					alt="vite-vue-admin"
 					src="https://github.com/peng-xiao-shuai/vite-vue-admin/raw/master/src/assets/logo.svg"
 					height="48"
-					align="left"
 				/>
 			</a>
 			<br>
