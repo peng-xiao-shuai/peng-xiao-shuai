@@ -49,4 +49,4 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 
 ### 🛠️ My Projects
 <a href="https://github.com/peng-xiao-shuai/next-argots" target="_blank"> <img alt="Argots" src="https://argots.cn/logo.svg" height="68" align="left"> </a>
-<a href="https://github.com/peng-xiao-shuai/vite-vue-admin" target="_blank"> <img alt="vite-vue-admin" src="/peng-xiao-shuai/vite-vue-admin/raw/master/src/assets/logo.svg"  height="68" align="left"> </a>
+<a href="https://github.com/peng-xiao-shuai/vite-vue-admin" target="_blank"> <img alt="vite-vue-admin" src="https://github.com/peng-xiao-shuai/vite-vue-admin/raw/master/src/assets/logo.svg"  height="68" align="left"> </a>
