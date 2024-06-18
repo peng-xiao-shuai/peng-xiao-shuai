@@ -16,17 +16,17 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></a>
-<a href="https://vitejs.dev/" target="_blank"><img align="left" alt="Vite" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"></a>
-<a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height='42px'/> </a>
-<a href="https://threejs.org/" target="_blank"><img align="left" alt="Three.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"></a>
-<a href="https://tailwindcss.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" height ="42px"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align="left" alt="Git" height='42px'/> </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" align="left" alt="Photoshop" height='42px'/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display: inline-block"> <img align="left" alt="JavaScript" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" style="display: inline-block"><img align="left" alt="Typescirpt" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>
+<a href="https://nodejs.org" target="_blank" style="display: inline-block"><img align="left" alt="Node.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></a>
+<a href="https://vitejs.dev/" target="_blank" style="display: inline-block"><img align="left" alt="Vite" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"></a>
+<a href="https://vuejs.org/" target="_blank" style="display: inline-block"> <img align="left" alt="Vue" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"></a>
+<a href="https://reactjs.org/" target="_blank" style="display: inline-block"> <img align="left" alt="React" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
+<a href="https://nextjs.org/" target="_blank" style="display: inline-block"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height='42px'/> </a>
+<a href="https://threejs.org/" target="_blank" style="display: inline-block"><img align="left" alt="Three.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"></a>
+<a href="https://tailwindcss.com/" target="_blank" style="display: inline-block"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" height ="42px"/> </a>
+<a href="https://git-scm.com/" target="_blank" style="display: inline-block"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align="left" alt="Git" height='42px'/> </a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" style="display: inline-block"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" align="left" alt="Photoshop" height='42px'/> </a>
 
 <br>
 
