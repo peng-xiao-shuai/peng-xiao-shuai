@@ -48,7 +48,7 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 
 <table>
 	<tr>
-		<td align="center" width='90'>
+		<td align="center" width='120'>
 			<a
 				href="https://github.com/peng-xiao-shuai/next-argots"
 				target="_blank"
@@ -60,10 +60,10 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 					align="left"
 				/>
 			</a>
-			<br/>
+			<br>
 			<b>Argots</b>
 		</td>
-		<td align="center" width='100'>
+		<td align="center" width='160'>
 			<a
 				href="https://github.com/peng-xiao-shuai/vite-vue-admin"
 				target="_blank"
@@ -75,7 +75,7 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 					align="left"
 				/>
 			</a>
-			<br/>
+			<br>
 			<b>Vite Vue Admin</b>
 		</td>
 	</tr>
