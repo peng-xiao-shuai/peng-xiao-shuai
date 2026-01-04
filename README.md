@@ -31,7 +31,7 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 <a href="https://developers.weixin.qq.com/miniprogram/dev/framework/" target="_blank"><img align="left" alt="WeChatMiniApps" height='42px' src="./public/wechat-mini-apps.svg" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></a>
 
-<br>
+<br><br>
 
 ### 📊 Github Stats
 
