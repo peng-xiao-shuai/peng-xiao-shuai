@@ -55,7 +55,7 @@ I am a versatilist and easily adapt to different roles (Full Stack Web Developer
 			>
 				<img
 					alt="Argots"
-					src="https://argots.cn/logo.svg"
+					src="https://argots-edge.vercel.app/logo.svg"
 					height="48"
 				/>
 			</a>
